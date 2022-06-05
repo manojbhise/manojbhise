@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://charming-starship-2b8391.netlify.app/](https://charming-starship-2b8391.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-three-85.vercel.app/](https://portfolio-psi-three-85.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data Structure**
 

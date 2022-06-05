@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing](https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kmLaEm_OHl4c-zNzO2I8ts18YSnVDhfi/view?usp=sharing](https://drive.google.com/file/d/1kmLaEm_OHl4c-zNzO2I8ts18YSnVDhfi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

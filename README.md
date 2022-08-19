@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kmLaEm_OHl4c-zNzO2I8ts18YSnVDhfi/view?usp=sharing](https://drive.google.com/file/d/1kmLaEm_OHl4c-zNzO2I8ts18YSnVDhfi/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/6a586a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="6a586a236" height="30" width="40" /></a>

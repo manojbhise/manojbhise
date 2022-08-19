@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Bhise</h1>
-<h3 align="center">A passionate full stack web developer specialized in MERN stack. Passion to create new websites. Ability to work in collaborative projects remotely. Keen to learn new technologies.</h3>
 
-⚡ Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive.
+<h3 align="center">A passionate full stack web developer specialized in MERN stack. Passion to create new websites. Ability to work in collaborative projects remotely. Keen to learn new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojbhise&label=Profile%20views&color=0e75b6&style=flat" alt="manojbhise" /> </p>
 

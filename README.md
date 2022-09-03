@@ -16,13 +16,9 @@ calm and focused demeanor.
 
 <h3>About Me:</h3>
 
-- 👨‍💻 All of my projects are available at [https://manojbhiseportfolio.vercel.app/](https://manojbhiseportfolio.vercel.app/)
-
 - 💬 Ask me about **HTML, CSS, JS, MERN Stack**
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bQTtjMDVRrL0qRPNA0tKZ6opXJJ0B2W7/view?usp=sharing](https://drive.google.com/file/d/1bQTtjMDVRrL0qRPNA0tKZ6opXJJ0B2W7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

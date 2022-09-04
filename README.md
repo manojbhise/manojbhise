@@ -13,17 +13,17 @@ calm and focused demeanor.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://charming-starship-2b8391.netlify.app/](https://charming-starship-2b8391.netlify.app/)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://charming-starship-2b8391.netlify.app/)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data Structure**
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing](https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing)
+- 📄 Know about my experiences **[Click Here](https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

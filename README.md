@@ -17,13 +17,13 @@ calm and focused demeanor.
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](manojbhiseportfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://manojbhiseportfolio.vercel.app/)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data structure and algorithm**
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
 
-- 📄 Know about my experiences **[Click Here](https://drive.google.com/file/d/11u6g6h7GP7AvWDckTnkymu0F6QxzWv2w/view?usp=sharing)**
+- 📄 Know about my experiences **[Click Here](https://drive.google.com/drive/folders/1dOan_vCsqeUbt2ygLrb5pTimab5SJ_Fj?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

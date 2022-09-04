@@ -17,7 +17,7 @@ calm and focused demeanor.
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://charming-starship-2b8391.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](manojbhiseportfolio.vercel.app/)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data Structure**
 

@@ -19,7 +19,7 @@ calm and focused demeanor.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](manojbhiseportfolio.vercel.app/)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data Structure**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data structure and algorithm**
 
 - 📫 How to reach me **bhise.manoj29@gmail.com**
 

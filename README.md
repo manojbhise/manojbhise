@@ -15,14 +15,10 @@ calm and focused demeanor.
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
+- 🌱 I’m currently learning **MERN**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://manojbhiseportfolio.vercel.app/)**
-
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data structure and algorithm**
-
-- 📫 How to reach me **bhise.manoj29@gmail.com**
-
+- 📫 You can reach me at **bhise.manoj29@gmail.com**
 - 📄 Know about my experiences **[Click Here](https://drive.google.com/drive/folders/1dOan_vCsqeUbt2ygLrb5pTimab5SJ_Fj?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>

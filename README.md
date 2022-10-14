@@ -16,7 +16,6 @@ calm and focused demeanor.
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **MERN**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://manojbhiseportfolio.vercel.app/)**
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data structure and algorithm**
 
 <h3 align="left">Connect with me:</h3>

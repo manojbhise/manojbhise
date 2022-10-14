@@ -18,8 +18,6 @@ calm and focused demeanor.
 - 🌱 I’m currently learning **MERN**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://manojbhiseportfolio.vercel.app/)**
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Data structure and algorithm**
-- 📫 You can reach me at **bhise.manoj29@gmail.com**
-- 📄 Know about my experiences **[Click Here](https://drive.google.com/drive/folders/1dOan_vCsqeUbt2ygLrb5pTimab5SJ_Fj?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
